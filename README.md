@@ -1,6 +1,5 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
-🌟 E-Commerce App with Laravel, Filament, React & DaisyUI
+<h1>🌟 E-Commerce App with Laravel, Filament, React & DaisyUI </h1>
 
 The eCommerce application is a modern and scalable platform designed for seamless online shopping experiences. Built with Laravel as the backend framework, it ensures robust security, high performance, and smooth database management.
 
