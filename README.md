@@ -5,6 +5,7 @@ The eCommerce application is a modern and scalable platform designed for seamles
 
 Key Features:
 ✅ Admin Panel with Filament – A user-friendly and customizable dashboard for managing products, orders, users, and analytics.
+
 ✅ React-Based Frontend – A fast, dynamic, and interactive UI built with React, ensuring a smooth customer experience.
 ✅ DaisyUI for Beautiful Styling – A Tailwind CSS-powered UI with DaisyUI components, making the design modern and responsive.
 ✅ Secure Authentication – User authentication with Laravel Passport or Sanctum for secure logins and transactions.
